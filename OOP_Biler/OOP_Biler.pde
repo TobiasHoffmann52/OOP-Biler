@@ -26,8 +26,8 @@ void setup() {
   size(500, 500);
   noStroke();
   rectMode(CENTER);
-  float x;
-  float y;
+  float x = 0;
+  float y = 0;
 }
 
 void draw() {
